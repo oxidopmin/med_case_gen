@@ -1,5 +1,9 @@
 # Medical Case Generator
 
+## زبان‌ها / Languages
+
+[🇮🇷 فارسی](./README_FA.md) | [English](./README.md)
+
 A simple yet powerful tool for generating medical case scenarios in bulk, based on customizable CSV data inputs. 
 Ideal for medical education, AI training datasets, or clinical simulation exercises.
 
